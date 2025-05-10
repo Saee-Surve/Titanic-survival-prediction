@@ -4,20 +4,20 @@ This project features a machine learning-powered web application developed using
 
 ---
 
-### 🎯 Objective
+### Objective
 
 The primary goal of this application is to provide an intuitive and interactive platform that leverages predictive modeling to estimate the survival chances of a Titanic passenger based on demographic and travel-related details. The application is user-friendly, responsive, and suitable for demonstrations and academic learning.
 
 ---
 
-### 🌐 Live Demo
+### Live Demo
 
 Access the deployed application here:  
-🔗 [Titanic Survival Prediction App – Streamlit](#) *('https://titanic-survival-prediction-saee-surve.streamlit.app/')*
+🔗 [Titanic Survival Prediction App – Streamlit](https://titanic-survival-prediction-saee-surve.streamlit.app/)
 
 ---
 
-### 🧪 Model Overview
+### Model Overview
 
 - **Algorithm Used**: Logistic Regression  
 - **Accuracy Achieved**: **81.00%** on test data  
@@ -26,11 +26,11 @@ Access the deployed application here:
 
 ---
 
-### 📊 Dataset
+### Dataset
 
 - **Source**: Kaggle  
 - **Dataset Name**: Titanic Dataset  
-- **Link**: [https://www.kaggle.com/datasets/yasserh/titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- **Link**: [titanic-dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 The dataset includes the following features:
 - **Pclass**: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd)  
@@ -43,7 +43,7 @@ The dataset includes the following features:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Frontend & Deployment**: Streamlit  
 - **Machine Learning**: Scikit-learn (Logistic Regression, preprocessing)  
@@ -53,7 +53,7 @@ The dataset includes the following features:
 
 ---
 
-### 📁 Repository Contents
+### Repository Contents
 
 - `app.py` – Streamlit web application  
 - `titanic_model.joblib` – Trained Logistic Regression model  
@@ -62,7 +62,7 @@ The dataset includes the following features:
 
 ---
 
-### 📌 How It Works
+### How It Works
 
 1. The user enters details like class, sex, age, ticket fare, and embarkation point.  
 2. The input is preprocessed to match the training data format.  
@@ -71,7 +71,7 @@ The dataset includes the following features:
 
 ---
 
-### ✔️ Advantages
+### Advantages
 
 - Clean and interactive UI for smooth user experience  
 - Real-time predictions with high responsiveness  
